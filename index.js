@@ -28,6 +28,6 @@ function removeLastKitten(){
 }
 function removeFirstKitten(){
   return kittens.slice(1)
-  //returns the full array after slicing i 0to1
+  //returns the full array after index 1 
 }
 
